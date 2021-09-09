@@ -36,7 +36,7 @@ function Form() {
           <div>
             <a
               href="#"
-              class="text-md ml-1.5 font-bold text-yellow-800 hover:underline"
+              class="text-sm ml-1.5 font-bold text-yellow-800 hover:underline"
             >
               Forgot your Password?
             </a>
