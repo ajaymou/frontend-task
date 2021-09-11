@@ -14,13 +14,6 @@ function App() {
           <Route exact path="/">
             <Login />
           </Route>
-          {/* <Route
-            exact
-            path="/"
-            render={() => {
-              return <Redirect to="/" />;
-            }}
-          /> */}
         </Switch>
       </Router>
     </>
